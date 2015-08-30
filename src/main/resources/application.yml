@@ -1,0 +1,11 @@
+spring:
+    profiles.active: default
+---
+spring:
+    profiles: default
+
+library:
+    id: 4
+    name: Dermot's Library
+
+---
